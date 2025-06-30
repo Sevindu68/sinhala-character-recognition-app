@@ -46,6 +46,4 @@ This project is a Sinhala letter recognition application. It uses a K-Nearest Ne
 - `data set` - Data Set which is used to train the model
 - `README.md` - Project documentation.
 
-## License
 
-This project is licensed under the MIT License.
