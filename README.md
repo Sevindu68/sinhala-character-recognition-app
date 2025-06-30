@@ -43,6 +43,7 @@ This project is a Sinhala letter recognition application. It uses a K-Nearest Ne
 - `sinhala_letter_recognition.py` - Additional Python script for model training and experimentation.
 - `icon.png` - Application icon.
 - `images/` - Directory for storing image assets (currently empty).
+- `data set` - Data Set which is used to train the model
 - `README.md` - Project documentation.
 
 ## License
